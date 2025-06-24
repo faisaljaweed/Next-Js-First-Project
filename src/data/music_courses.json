@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "React for Beginners",
+      "slug": "react-for-beginners",
+      "description": "Learn the fundamentals of React and build interactive UIs.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "inFeatured": true,
+      "image": "https://example.com/images/react.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Python Programming Masterclass",
+      "slug": "python-programming-masterclass",
+      "description": "Master Python from basics to advanced level.",
+      "price": 59.99,
+      "instructor": "Alice Smith",
+      "inFeatured": false,
+      "image": "https://example.com/images/python.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Full Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Become a full stack developer using MERN stack.",
+      "price": 99.0,
+      "instructor": "Robert King",
+      "inFeatured": true,
+      "image": "https://example.com/images/fullstack.jpg"
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Design Essentials",
+      "slug": "ui-ux-design-essentials",
+      "description": "Learn user interface and user experience design.",
+      "price": 39.99,
+      "instructor": "Lisa Adams",
+      "inFeatured": false,
+      "image": "https://example.com/images/uiux.jpg"
+    },
+    {
+      "id": "5",
+      "title": "JavaScript Deep Dive",
+      "slug": "javascript-deep-dive",
+      "description": "Explore the inner workings of JavaScript.",
+      "price": 45.0,
+      "instructor": "Mark Johnson",
+      "inFeatured": true,
+      "image": "https://example.com/images/javascript.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Data Science with Python",
+      "slug": "data-science-python",
+      "description": "Perform data analysis and visualization using Python.",
+      "price": 79.99,
+      "instructor": "Rachel Green",
+      "inFeatured": false,
+      "image": "https://example.com/images/datascience.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Mobile App Development with React Native",
+      "slug": "mobile-app-development-react-native",
+      "description": "Build cross-platform mobile apps using React Native.",
+      "price": 69.0,
+      "instructor": "James Lee",
+      "inFeatured": true,
+      "image": "https://example.com/images/reactnative.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Machine Learning A-Z",
+      "slug": "machine-learning-a-z",
+      "description": "Comprehensive guide to machine learning algorithms.",
+      "price": 89.99,
+      "instructor": "Emily Clark",
+      "inFeatured": false,
+      "image": "https://example.com/images/ml.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Next.js & Server-Side Rendering",
+      "slug": "nextjs-server-side-rendering",
+      "description": "Learn SSR with Next.js for blazing-fast apps.",
+      "price": 55.0,
+      "instructor": "Daniel White",
+      "inFeatured": true,
+      "image": "https://example.com/images/nextjs.jpg"
+    },
+    {
+      "id": "10",
+      "title": "DevOps Fundamentals",
+      "slug": "devops-fundamentals",
+      "description": "Learn CI/CD, Docker, and cloud deployment techniques.",
+      "price": 65.99,
+      "instructor": "Olivia Brown",
+      "inFeatured": false,
+      "image": "https://example.com/images/devops.jpg"
+    }
+  ]
+}
