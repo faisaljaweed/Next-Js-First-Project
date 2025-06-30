@@ -8,7 +8,7 @@
       "price": 49.99,
       "instructor": "John Doe",
       "inFeatured": true,
-      "image": "https://example.com/images/react.jpg"
+      "image": "/courses/01.jpg"
     },
     {
       "id": "2",
@@ -18,7 +18,7 @@
       "price": 59.99,
       "instructor": "Alice Smith",
       "inFeatured": false,
-      "image": "https://example.com/images/python.jpg"
+      "image": "/courses/02.jpg"
     },
     {
       "id": "3",
@@ -28,7 +28,7 @@
       "price": 99.0,
       "instructor": "Robert King",
       "inFeatured": true,
-      "image": "https://example.com/images/fullstack.jpg"
+      "image": "/courses/03.jpg"
     },
     {
       "id": "4",
@@ -38,7 +38,7 @@
       "price": 39.99,
       "instructor": "Lisa Adams",
       "inFeatured": false,
-      "image": "https://example.com/images/uiux.jpg"
+      "image": "/courses/04.jpg"
     },
     {
       "id": "5",
@@ -48,7 +48,7 @@
       "price": 45.0,
       "instructor": "Mark Johnson",
       "inFeatured": true,
-      "image": "https://example.com/images/javascript.jpg"
+      "image": "/courses/05.jpg"
     },
     {
       "id": "6",
@@ -58,7 +58,7 @@
       "price": 79.99,
       "instructor": "Rachel Green",
       "inFeatured": false,
-      "image": "https://example.com/images/datascience.jpg"
+      "image": "/courses/06.jpg"
     },
     {
       "id": "7",
@@ -68,7 +68,7 @@
       "price": 69.0,
       "instructor": "James Lee",
       "inFeatured": true,
-      "image": "https://example.com/images/reactnative.jpg"
+      "image": "/courses/07.jpg"
     },
     {
       "id": "8",
@@ -78,7 +78,7 @@
       "price": 89.99,
       "instructor": "Emily Clark",
       "inFeatured": false,
-      "image": "https://example.com/images/ml.jpg"
+      "image": "/courses/08.jpg"
     },
     {
       "id": "9",
@@ -88,7 +88,7 @@
       "price": 55.0,
       "instructor": "Daniel White",
       "inFeatured": true,
-      "image": "https://example.com/images/nextjs.jpg"
+      "image": "/courses/09.jpg"
     },
     {
       "id": "10",
@@ -98,7 +98,7 @@
       "price": 65.99,
       "instructor": "Olivia Brown",
       "inFeatured": false,
-      "image": "https://example.com/images/devops.jpg"
+      "image": "/courses/10.jpg"
     }
   ]
 }

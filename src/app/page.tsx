@@ -1,5 +1,9 @@
+import ComingWebinar from "@/components/ComingWebinar";
 import FeaturedSection from "@/components/FeaturedSection";
+import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
+import Instructor from "@/components/Instructor";
+import TestimonialCards from "@/components/TestimonialCards";
 import WhyChooseUs from "@/components/WhyChooseUs";
 import React from "react";
 
@@ -11,6 +15,10 @@ function page() {
         <HeroSection />
         <FeaturedSection />
         <WhyChooseUs />
+        <TestimonialCards />
+        <ComingWebinar />
+        <Instructor />
+        <Footer />
       </main>
     </>
   );
